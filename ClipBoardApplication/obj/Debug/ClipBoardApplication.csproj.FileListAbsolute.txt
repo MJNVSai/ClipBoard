@@ -1,0 +1,16 @@
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\obj\Debug\ClipBoardApplication.csproj.AssemblyReference.cache
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\obj\Debug\ClipBoardApplication.Form1.resources
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\obj\Debug\ClipBoardApplication.Properties.Resources.resources
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\obj\Debug\ClipBoardApplication.csproj.GenerateResource.cache
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\obj\Debug\ClipBoardApplication.csproj.CoreCompileInputs.cache
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\bin\Debug\ClipBoard.exe.config
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\bin\Debug\ClipBoard.exe.manifest
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\bin\Debug\ClipBoard.application
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\bin\Debug\ClipBoard.xml
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\bin\Debug\ClipBoard.exe
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\bin\Debug\ClipBoard.pdb
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\obj\Debug\ClipBoard.TrustInfo.xml
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\obj\Debug\ClipBoard.exe.manifest
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\obj\Debug\ClipBoard.application
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\obj\Debug\ClipBoard.exe
+D:\DotNet\Desktop\ClipBoardApplication\ClipBoardApplication\obj\Debug\ClipBoard.pdb
